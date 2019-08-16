@@ -1,0 +1,33 @@
+{
+	"codes":[
+		{
+			"id":1,
+			"code": "akc99x0"
+		},
+				{
+			"id":2,
+			"code": "kek93lc"
+		},
+				{
+			"id":3,
+			"code": "pvl39vi"
+		}
+	],
+
+	"users":[
+		{
+			"id":1,
+			"userId": "jerryS67",
+			"email":"j3343@yahoo.com"
+		},{
+			"id":2,
+			"userId": "michael34",
+			"email":"m34@yahoo.com"
+		},{
+			"id":3,
+			"userId": "90saidh",
+			"email":"sasd22@yahoo.com"
+		}
+	]
+
+}
